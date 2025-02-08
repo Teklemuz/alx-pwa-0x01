@@ -1,4 +1,4 @@
-# alx-project-0x14
+# alx-pwa-0x01
 
 This project is designed to interact with **The Movie Database (TMDb) API v2**. 
 
